@@ -1,0 +1,150 @@
+id,shortName,FullName
+158,BAP1,BRCA1 associated protein 1
+159,BBS1,Bardet-Biedl syndrome 1
+160,BBS10,Bardet-Biedl syndrome 10
+164,BCOR,BCL6 corepressor
+165,BCR,"BCR, RhoGEF and GTPase activating protein"
+166,BCS1L,"BCS1 homolog, ubiquinol-cytochrome c reductase complex chaperone"
+169,BICD2,BICD cargo adaptor 2
+171,BLM,BLM RecQ like helicase
+175,BRAF,"B-Raf proto-oncogene, serine/threonine kinase"
+176,BRCA1,"BRCA1, DNA repair associated"
+177,BRCA2,"BRCA2, DNA repair associated"
+178,BSCL2,"BSCL2, seipin lipid droplet biogenesis associated"
+181,BTK,Bruton tyrosine kinase
+182,BUB1B,BUB1 mitotic checkpoint serine/threonine kinase B
+1097,RAG1,recombination activating 1
+1098,RAG2,recombination activating 2
+1099,RAI1,retinoic acid induced 1
+1101,RAPSN,receptor associated protein of the synapse
+1102,RARA,retinoic acid receptor alpha
+1107,RBPJ,recombination signal binding protein for immunoglobulin kappa J region
+1108,RDH5,retinol dehydrogenase 5
+1110,REEP1,receptor accessory protein 1
+1111,RELN,reelin
+1112,REN,renin
+1114,RET,ret proto-oncogene
+1115,RETREG1,reticulophagy regulator 1
+1116,RFX5,regulatory factor X5
+1117,RFXANK,regulatory factor X associated ankyrin containing protein
+1118,RFXAP,regulatory factor X associated protein
+1119,RGS9,regulator of G protein signaling 9
+1120,RGS9BP,regulator of G protein signaling 9 binding protein
+1121,RHO,rhodopsin
+1124,RNASEH2A,ribonuclease H2 subunit A
+1125,RNASEH2B,ribonuclease H2 subunit B
+1126,RNASEH2C,ribonuclease H2 subunit C
+1127,RNASET2,ribonuclease T2
+1128,RNF213,ring finger protein 213
+1129,RNF216,ring finger protein 216
+1130,ROBO3,roundabout guidance receptor 3
+1131,ROR2,receptor tyrosine kinase like orphan receptor 2
+1134,RPGR,retinitis pigmentosa GTPase regulator
+1135,RPL5,ribosomal protein L5
+1136,RPL11,ribosomal protein L11
+1137,RPL35A,ribosomal protein L35a
+1138,RPS6KA3,ribosomal protein S6 kinase A3
+1139,RPS10,ribosomal protein S10
+1140,RPS14,ribosomal protein S14
+1141,RPS17,ribosomal protein S17
+1142,RPS19,ribosomal protein S19
+1143,RPS24,ribosomal protein S24
+1144,RPS26,ribosomal protein S26
+1145,RPSA,ribosomal protein SA
+1146,RRM2B,ribonucleotide reductase regulatory TP53 inducible subunit M2B
+1147,RS1,retinoschisin 1
+1149,RUNX1,runt related transcription factor 1
+1151,RUNX2,runt related transcription factor 2
+1152,RYR1,ryanodine receptor 1
+1153,RYR2,ryanodine receptor 2
+4,ABCA1,ATP binding cassette subfamily A member 1
+5,ABCA3,ATP binding cassette subfamily A member 3
+6,ABCA4,ATP binding cassette subfamily A member 4
+7,ABCA12,ATP binding cassette subfamily A member 12
+8,ABCB4,ATP binding cassette subfamily B member 4
+9,ABCB7,ATP binding cassette subfamily B member 7
+10,ABCB11,ATP binding cassette subfamily B member 11
+11,ABCC2,ATP binding cassette subfamily C member 2
+12,ABCC6,ATP binding cassette subfamily C member 6
+13,ABCC8,ATP binding cassette subfamily C member 8
+14,ABCC9,ATP binding cassette subfamily C member 9
+15,ABCD1,ATP binding cassette subfamily D member 1
+16,ABCD4,ATP binding cassette subfamily D member 4
+17,ABCG2,ATP binding cassette subfamily G member 2 (Junior blood group)
+18,ABCG5,ATP binding cassette subfamily G member 5
+19,ABCG8,ATP binding cassette subfamily G member 8
+21,ABL1,"ABL proto-oncogene 1, non-receptor tyrosine kinase"
+44,ADAMTS2,ADAM metallopeptidase with thrombospondin type 1 motif 2
+45,ADAMTS10,ADAM metallopeptidase with thrombospondin type 1 motif 10
+46,ADAMTS13,ADAM metallopeptidase with thrombospondin type 1 motif 13
+47,ADAMTSL2,ADAMTS like 2
+48,ADAMTSL4,ADAMTS like 4
+55,AFF2,AF4/FMR2 family member 2
+56,AFF4,AF4/FMR2 family member 4
+65,AHDC1,AT-hook DNA binding motif containing 1
+69,AKT1,AKT serine/threonine kinase 1
+70,AKT3,AKT serine/threonine kinase 3
+78,ALG1,"ALG1, chitobiosyldiphosphodolichol beta-mannosyltransferase"
+79,ALG6,"ALG6, alpha-1,3-glucosyltransferase"
+80,ALG12,"ALG12, alpha-1,6-mannosyltransferase"
+81,ALK,ALK receptor tyrosine kinase
+82,ALMS1,"ALMS1, centrosome and basal body associated protein"
+86,ALS2,"ALS2, alsin Rho guanine nucleotide exchange factor"
+87,ALX1,ALX homeobox 1
+88,ALX3,ALX homeobox 3
+89,ALX4,ALX homeobox 4
+92,AMER1,APC membrane recruitment protein 1
+100,ANKH,ANKH inorganic pyrophosphate transport regulator
+104,ANTXR2,ANTXR cell adhesion molecule 2
+105,APC,"APC, WNT signaling pathway regulator"
+114,ARFGEF2,ADP ribosylation factor guanine nucleotide exchange factor 2
+117,ARID1A,AT-rich interaction domain 1A
+118,ARID1B,AT-rich interaction domain 1B
+126,ASH1L,ASH1 like histone lysine methyltransferase
+132,ASXL1,ASXL transcriptional regulator 1
+135,ATM,ATM serine/threonine kinase
+137,ATP1A1,ATPase Na+/K+ transporting subunit alpha 1
+138,ATP1A2,ATPase Na+/K+ transporting subunit alpha 2
+139,ATP1A3,ATPase Na+/K+ transporting subunit alpha 3
+140,ATP2A1,ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 1
+141,ATP2A2,ATPase sarcoplasmic/endoplasmic reticulum Ca2+ transporting 2
+142,ATP2C1,ATPase secretory pathway Ca2+ transporting 1
+143,ATP6V0A2,ATPase H+ transporting V0 subunit a2
+144,ATP6V0A4,ATPase H+ transporting V0 subunit a4
+145,ATP6V1B1,ATPase H+ transporting V1 subunit B1
+146,ATP7A,ATPase copper transporting alpha
+147,ATP7B,ATPase copper transporting beta
+148,ATP8B1,ATPase phospholipid transporting 8B1
+149,ATRX,"ATRX, chromatin remodeler"
+153,AUH,AU RNA binding methylglutaconyl-CoA hydratase
+538,GALE,UDP-galactose-4-epimerase
+1424,UGT1A1,UDP glucuronosyltransferase family 1 member A1
+1431,USB1,U6 snRNA biogenesis phosphodiesterase 1
+1433,UTP4,"UTP4, small subunit processome component"
+1434,UVSSA,UV stimulated scaffold protein A
+125,ASAH1,N-acylsphingosine amidohydrolase 1
+581,GNPTAB,N-acetylglucosamine-1-phosphate transferase subunits alpha and beta
+582,GNPTG,N-acetylglucosamine-1-phosphate transferase subunit gamma
+892,NAGLU,N-acetyl-alpha-glucosaminidase
+893,NAGS,N-acetylglutamate synthase
+900,NDP,"NDP, norrin cystine knot growth factor"
+905,NFKBIA,NFKB inhibitor alpha
+906,NFU1,NFU1 iron-sulfur cluster scaffold
+908,NGLY1,N-glycanase 1
+909,NHLRC1,NHL repeat containing E3 ubiquitin protein ligase 1
+910,NIPBL,"NIPBL, cohesin loading factor"
+911,NKX2-1,NK2 homeobox 1
+912,NLRP1,NLR family pyrin domain containing 1
+913,NLRP3,NLR family pyrin domain containing 3
+914,NLRP7,NLR family pyrin domain containing 7
+915,NLRP12,NLR family pyrin domain containing 12
+919,NOP56,NOP56 ribonucleoprotein
+923,NPC1,NPC intracellular cholesterol transporter 1
+924,NPC2,NPC intracellular cholesterol transporter 2
+926,NPHS1,"NPHS1, nephrin"
+927,NPHS2,"NPHS2, podocin"
+929,NPRL2,"NPR2 like, GATOR1 complex subunit"
+930,NPRL3,"NPR3 like, GATOR1 complex subunit"
+934,NRAS,"NRAS proto-oncogene, GTPase"
+937,NSDHL,NAD(P) dependent steroid dehydrogenase-like
+1202,SGSH,N-sulfoglucosamine sulfohydrolase
